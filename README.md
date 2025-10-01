@@ -153,7 +153,7 @@ nzhinusoft@nzhinusoft-cabrel$
 - Make a note of Policy ARN as we are going to use that in next step when creating IAM Role.
 ```t
 # Policy ARN 
-Policy ARN:  arn:aws:iam::180789647333:policy/AWSLoadBalancerControllerIAMPolicy
+Policy ARN:  arn:aws:iam::863518460970:policy/AWSLoadBalancerControllerIAMPolicy
 ```
 
 
