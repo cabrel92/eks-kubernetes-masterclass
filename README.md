@@ -287,6 +287,9 @@ helm version
 ```t
 --set image.repository=account.dkr.ecr.region-code.amazonaws.com/amazon/aws-load-balancer-controller
 ```
+```t
+602401143452.dkr.ecr.eu-west-3.amazonaws.com
+```
 - **Important Note 3:** **ADDED NEWLY - RECOMMENDED** 
   - You no longer need to use region-specific image URIs.
 ```t
