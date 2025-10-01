@@ -43,8 +43,8 @@ eksctl get cluster
 
 # Template (Section-01-02)
 eksctl utils associate-iam-oidc-provider \
-    --region region-code \
-    --cluster <cluter-name> \
+    --region eu-west-3 \
+    --cluster eksdemo1 \
     --approve
 
 # Replace with region & cluster name (Section-01-02)
